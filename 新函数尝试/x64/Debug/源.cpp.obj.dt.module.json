@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "新函数尝试\\x64\\Debug\\源.obj",
+            "outputs": [
+                "新函数尝试\\x64\\Debug\\源.cpp.obj.dt.module.json",
+                "新函数尝试\\x64\\Debug\\源.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
